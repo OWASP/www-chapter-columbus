@@ -2,7 +2,6 @@
 
 layout: col-sidebar
 title: OWASP Columbus
-tags: example-tag
 level: 0
 
 region: United States
@@ -95,14 +94,6 @@ now](https://www.owasp.org/index.php/Single_Meeting_Supporter).
 
 The previous meetings, including materials and photos, can be accessed
 on our [Meetup page](https://www.meetup.com/Columbus-OWASP/)
-
-## Columbus OWASP Chapter Leaders
-
-Please feel free to contact the chapter leaders at any time.
-
-  - [Aaron Ansari](mailto:aaronansari@gmail.com)
-  - [Connie Matthews](mailto:Connie.Matthews\(at\)securicon.com)
-  - [Bill Sempf](mailto:bill\(at\)pointweb.net)
 
 [Category:OWASP_Chapter](Category:OWASP_Chapter "wikilink")
 [Category:Ohio](Category:Ohio "wikilink")
