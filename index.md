@@ -7,48 +7,102 @@ level: 0
 
 region: United States
 
-auto-migrated: 1
 
 ---
+Welcome to the home site of the Columbus OWASP Chapter. We welcome all
+technology professionals to our monthly discussions of application
+security.
 
+## Upcoming Meetings
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+***Upcoming meetings are listed at our new [Meetup.com
+site](http://www.meetup.com/Columbus-OWASP/).***
 
-{front matter for this file}
+## Chapter information
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+Columbus OWASP meets monthly on the fourth Thursday of the month, with
+two different meeting formats. Some months are Sessions, where we have
+two speakers, and an open discussion of news of the day. Others are Code
+Jams, where we work on projects, bug bounty programs, or other geeky
+stuff. All of it is described on
+[Meetup.com](http://www.meetup.com/Columbus-OWASP/). There will be
+opportunities for Columbus OWASP members to meet other local security
+groups through event cross-participation and cooperation.
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+### OWASP Membership
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+There have been a lot of questions about membership. Membership supports
+the many projects that OWASP in involved in, including ESAPI. [Learn
+more about membership
+here](http://www.owasp.org/index.php/Membership#Categories_of_Membership_.26_Supporters).
+Remember to tell them you are interested in membership in the Columbus
+chapter.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+### Stay in touch with Columbus OWASP
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+  - The first stop to connecting with the community is our [Meetup
+    message
+    board](https://www.meetup.com/Columbus-OWASP/messages/boards/), feel
+    free to contribute and interact with the forum - it's not just for
+    listening\!
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+<!-- end list -->
 
-```
-{info.md}
+  - We're a group on
+    [LinkedIn](http://www.linkedin.com/groups?home=&gid=2796025) as
+    well, please join us.
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+### Become a voting member
 
-{leaders.md}
+We encourage organization and individual supporters of our [ethics &
+principals](http://www.owasp.org/index.php/About_The_Open_Web_Application_Security_Project)
+to become a voting
+**[MEMBER](http://www.owasp.org/index.php/Membership#Categories_of_Membership_.26_Supporters)**.
+Please review the [Chapter Rules](Chapter_Rules "wikilink") and the
+[OWASP
+overview](http://www.owasp.org/images/9/9f/2009-OWASP_KeyNote-V2.pdf),
+and [contact the chapter leaders](mailto:columbusowasp\(at\)gmail.com)
+for more information.
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+*The professional association of OWASP Foundation Inc., is always free
+and open to anyone interested in learning more about application
+security.*
 
--->
+### We want your participation\!
+
+To submit educational topics for upcoming meetings, [submit your ideas
+and slide deck](mailto:columbusowasp\(at\)gmail.com) (if available)
+using the [OWASP
+Template](http://www.owasp.org/images/5/54/Presentation_template.ppt)
+and include a speaker BIO. It doesn't have to be formal, we're happy to
+provide some assistance in organizing your thoughts. You only need an
+interest and knowledge of your independent research or related software
+security topic.
+
+### Sponsorship, too\!
+
+There are myriad opportunities to sponsor the chapter, including meeting
+space, food, marketing, and monetary donations. We're always looking for
+assistance. Inquiries regarding chapter or per-meeting sponsorship
+opportunities can be directed to [the chapter
+leaders](mailto:columbusowasp\(at\)gmail.com). As a [501(3)c non-profit
+professional association](http://www.owasp.org/index.php/About_OWASP)
+your support and sponsorship of a meeting venue and/or refreshments is
+tax-deductible and all financial contributions can be [made online right
+now](https://www.owasp.org/index.php/Single_Meeting_Supporter).
+
+## Previous Meetings
+
+The previous meetings, including materials and photos, can be accessed
+on our [Meetup page](https://www.meetup.com/Columbus-OWASP/)
+
+## Columbus OWASP Chapter Leaders
+
+Please feel free to contact the chapter leaders at any time.
+
+  - [Aaron Ansari](mailto:aaronansari@gmail.com)
+  - [Connie Matthews](mailto:Connie.Matthews\(at\)securicon.com)
+  - [Bill Sempf](mailto:bill\(at\)pointweb.net)
+
+[Category:OWASP_Chapter](Category:OWASP_Chapter "wikilink")
+[Category:Ohio](Category:Ohio "wikilink")
