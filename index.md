@@ -14,7 +14,7 @@ security.
 
 ## Upcoming Meetings
 
-***Upcoming meetings are listed at our new [Meetup.com
+***Upcoming meetings are listed at our [Meetup.com
 site](http://www.meetup.com/Columbus-OWASP/).***
 
 ## Chapter information
