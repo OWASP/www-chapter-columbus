@@ -2,3 +2,5 @@ __pycache__
 env
 .vscode
 /.vs/www-chapter-columbus/v16/.suo
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
