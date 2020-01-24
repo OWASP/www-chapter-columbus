@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Columbus
 level: 0
 
-region: United States
+region: North America
 
 
 ---
