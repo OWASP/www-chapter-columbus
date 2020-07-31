@@ -6,6 +6,9 @@ level: 0
 
 region: North America
 
+meetup-group: Columbus-OWASP
+country: USA
+postal-code: 43201
 
 ---
 Welcome to the home site of the Columbus OWASP Chapter. We welcome all
