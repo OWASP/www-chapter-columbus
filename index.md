@@ -23,11 +23,7 @@ site](http://www.meetup.com/Columbus-OWASP/).***
 
 ## Chapter information
 
-Columbus OWASP meets monthly on the fourth Thursday of the month, with
-two different meeting formats. Some months are Sessions, where we have
-two speakers, and an open discussion of news of the day. Others are Code
-Jams, where we work on projects, bug bounty programs, or other geeky
-stuff. All of it is described on
+Columbus OWASP meets monthly on the third Thursday of the month. All of the meetings, past and present, are described on
 [Meetup.com](http://www.meetup.com/Columbus-OWASP/). There will be
 opportunities for Columbus OWASP members to meet other local security
 groups through event cross-participation and cooperation.
