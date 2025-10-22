@@ -1,0 +1,32 @@
+community:
+  - name: chapter-columbus
+    platform: slack
+    url: https://owasp.slack.com/archives/C052VENF6
+leaders:
+  - name: Bill Sempf
+    email: bill.sempf@owasp.org
+    github: sempf
+  - name: Connie Matthews
+    email: connie.matthews@owasp.org
+  - name: David Hunt
+    email: david.hunt@owasp.org
+    github: hunt259
+location:
+  country: USA
+  country_code: US
+  region: Ohio
+  city: Columbus
+  postal_code: '43201'
+  latitude: 39.9622601
+  longitude: -83.0007065
+meetup_group: Columbus-OWASP
+name: OWASP Columbus
+repositories:
+  - name: www-chapter-columbus
+    url: https://github.com/OWASP/www-chapter-columbus
+    description: OWASP Foundation Web Repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-columbus
